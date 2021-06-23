@@ -1,5 +1,5 @@
 require 'jwt'
-require 'json-jwt'
+require 'json/jwt'
 
 module Keycloak
   class Realm
